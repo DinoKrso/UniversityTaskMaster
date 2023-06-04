@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UniTask</string>
+    <string name="all_tasks_completed">All Tasks Completed!</string>
+    <string name="nice_work">Nice work.</string>
+    <string name="unitask_home">UniTask Home</string>
+    <string name="add_a_new_task">Add a new task</string>
+    <string name="add_a_new_task_here">Add a new task here!</string>
+    <string name="task_title">Task title</string>
+    <string name="task_description">Task description</string>
+    <string name="task_course">Task course</string>
+    <string name="add_task">Add task</string>
+    <string name="add_a_new_task_top_bar_text">Add a new task</string>
+    <string name="unitaskmanager_home_top_bar">UniTaskManager Home</string>
+    <string name="delete_button">Delete</string>
+    <string name="close_button">Close</string>
+    <string name="delete_task_dialog_title">Delete task</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="task_no">"Task no. "</string>
+    <string name="about_the_app">About the app</string>
+    <string name="finished_tasks">Finished tasks</string>
+</resources>
